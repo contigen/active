@@ -1,4 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Active
+
+Active is a to-do list web app with speech recongiton & AI to help avoid the mental inertia that occurs as a result of planning out one's day.
+Just speak your tasks and the App listens using the Web Speech API, sends the transcript to the AI service, and the tasks are generated.
+
+This was a solo & rushed project, don't mind that.
+
+## Current Features
+
+- Tab to speak
+
+## Potential Features
+
+- PWA
+- Ability to inline links like adding a link to someone's contact
+- Send mail on tasks' completion
 
 ## Getting Started
 
