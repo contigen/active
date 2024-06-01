@@ -1,4 +1,4 @@
-import { cn } from '&/utils/utils'
+import { cn } from '&/lib/utils'
 import { ComponentPropsWithoutRef } from 'react'
 
 export function Badge({
