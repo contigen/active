@@ -7,13 +7,22 @@ This was a solo & rushed project, don't mind that.
 
 ## Current Features
 
-- Tab to speak
+- Space key to start speech recognition
+- Local storage persistence
 
 ## Potential Features
 
 - PWA
 - Ability to inline links like adding a link to someone's contact
 - Send mail on tasks' completion
+
+## Disclaimer to hackathon organisers
+
+I made a few commits after the deadline, but it was all to fix dev deps that occurred during the git issue,and a TS error fix that didn't happen in dev.
+
+**Live version**: [cactive.vercel.app](https://cactive.vercel.app/)
+
+Thanks!
 
 ## Getting Started
 
